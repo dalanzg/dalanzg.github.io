@@ -2,5 +2,6 @@ User-agent: *
 Disallow: /tips-tutorials/tags/
 Disallow: /tips-tutorials/categories/
 Disallow: /tips-tutorials/page/
+Disallow: /nadando-sobre-las-olas/page
 Sitemap: https://dalanzg.github.io/tips-tutorials/sitemap.xml
 Sitemap: https://dalanzg.github.io/nadando-sobre-las-olas/sitemap.xml
